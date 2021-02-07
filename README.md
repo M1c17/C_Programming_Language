@@ -37,24 +37,24 @@ Check this links:
 -  Ex_1.24 = Write a program to check a C program for syntax errors
 
 ## Chapter 2:
-  Ex_2.1 = Write a program to determine the ranges of char, short, int, and long variables, both signed and unsigned
-  Ex_2.2 = Write a for loop without using && or ||
-  Ex_2.3 = Write the function htoi(s)
-  Ex_2.4 = Write a program that delete every charac in s1 that matches every char in s2
-  Ex_2.5 = Write the function any => returns first location in the str s1 where any char from the st s2 occurs
-  Ex_2.6 = Write a function setbits(x, p, n, y)
-  Ex_2.7 = Write a function invert_bits(x, p, n, y)
-  Ex_2.8 = Write a function rightrot(x, n)
-  Ex_2.9 = Write a function count_bit(unsigned int x)
-  Ex_2.10 = Rewrite the function lower, which convert upper to lower, w/ a conditional expression instead of if-else
+-  Ex_2.1 = Write a program to determine the ranges of char, short, int, and long variables, both signed and unsigned
+-  Ex_2.2 = Write a for loop without using && or ||
+-  Ex_2.3 = Write the function htoi(s)
+-  Ex_2.4 = Write a program that delete every charac in s1 that matches every char in s2
+-  Ex_2.5 = Write the function any => returns first location in the str s1 where any char from the st s2 occurs
+-  Ex_2.6 = Write a function setbits(x, p, n, y)
+-  Ex_2.7 = Write a function invert_bits(x, p, n, y)
+-  Ex_2.8 = Write a function rightrot(x, n)
+-  Ex_2.9 = Write a function count_bit(unsigned int x)
+-  Ex_2.10 = Rewrite the function lower, which convert upper to lower, w/ a conditional expression instead of if-else
 
 ## Chapter 3:
-  Ex_3.1 = Binary search. Write a version with only one test inside the loop
-  Ex_3.2 = Write a function escape(s,t) => converts character like tab and new line in \t, \n
-  Ex_3.3 = Write a function expand(s1 s2) => expand short hand notation
-  Ex_3.4 = Rewrite our version of itoa to handle the largest negative number
-  Ex_3.5 = Write the function itob(n,s,b)
-  Ex_3.6 = Write a function of itoa that accept three arguments instead of two
+-  Ex_3.1 = Binary search. Write a version with only one test inside the loop
+-  Ex_3.2 = Write a function escape(s,t) => converts character like tab and new line in \t, \n
+-  Ex_3.3 = Write a function expand(s1 s2) => expand short hand notation
+-  Ex_3.4 = Rewrite our version of itoa to handle the largest negative number
+-  Ex_3.5 = Write the function itob(n,s,b)
+-  Ex_3.6 = Write a function of itoa that accept three arguments instead of two
 
 ## Chapter 4:
   Ex_4.1 = Write the function strindex that return the pos in the str s where str t begins
@@ -73,45 +73,45 @@ Check this links:
   Ex_4.14 = Define a macro swap that interchanges two arguments of type t
 
 ## Chapter 5:
-  Ex_5.1 = getint : get next integer from input into *pn 
-  Ex_5.2 = write the function getfloat
-  Ex_5.3 = Write a pointer version of the function strcat
-  Ex_5.4 = strend returns 1 if string t occurs at the end of the string s
-  Ex_5.5 = Write strcpy(s, t, n) copies at most n characters of t to s
-  Ex_5.6 = getline: return len and store the input in array s. pointer version
-  Ex_5.7 = Readlines using array
-  Ex_5.8 = There is no checking error in day_of_year or month_of_day remedy that error
-  Ex_5.9 = Rewrite the programs day_of_year and month_day with pointers instead of indexes
-  Ex_5.10 = Write the program expr, which evaluate a polish reverse expression from the command line
-  Ex_5.11 = entab and detab which accepts arguments
-  Ex_5.12 = entab -m + which accepts arguments
-  Ex_5.13 = Write the program tail, which prints the last n lines of its input.
-  Ex_5.14 = Modify the sort program to handle a -r flag, which indicates sorting in reverse
-  Ex_5.15 = fold upper and lower case together¶
-  Ex_5.16 = Add -d makes comparison on letters, numbers, blanks
-  Ex_5.17 = Sorting with options
-  Ex_5.18 = Program that convert from valid C to word description
-  Ex_5.19 = Modify undcl so that it does not add redundant parentheses 
-  Ex_5.20 = Expand dcl to handle declarations with funcitons arguments
+-  Ex_5.1 = getint : get next integer from input into *pn 
+-  Ex_5.2 = write the function getfloat
+-  Ex_5.3 = Write a pointer version of the function strcat
+-  Ex_5.4 = strend returns 1 if string t occurs at the end of the string s
+-  Ex_5.5 = Write strcpy(s, t, n) copies at most n characters of t to s
+-  Ex_5.6 = getline: return len and store the input in array s. pointer version
+-  Ex_5.7 = Readlines using array
+-  Ex_5.8 = There is no checking error in day_of_year or month_of_day remedy that error
+-  Ex_5.9 = Rewrite the programs day_of_year and month_day with pointers instead of indexes
+-  Ex_5.10 = Write the program expr, which evaluate a polish reverse expression from the command line
+-  Ex_5.11 = entab and detab which accepts arguments
+-  Ex_5.12 = entab -m + which accepts arguments
+-  Ex_5.13 = Write the program tail, which prints the last n lines of its input.
+-  Ex_5.14 = Modify the sort program to handle a -r flag, which indicates sorting in reverse
+-  Ex_5.15 = fold upper and lower case together¶
+-  Ex_5.16 = Add -d makes comparison on letters, numbers, blanks
+-  Ex_5.17 = Sorting with options
+-  Ex_5.18 = Program that convert from valid C to word description
+-  Ex_5.19 = Modify undcl so that it does not add redundant parentheses 
+-  Ex_5.20 = Expand dcl to handle declarations with funcitons arguments
 
 ## Chapter 6:
-  Ex_6.1 = getword
-  Ex_6.2 = Identical Variables
-  Ex_6.3 = Write a cross-referencer
-  Ex_6.5 = undef: remove name and definition from table
+-  Ex_6.1 = getword
+-  Ex_6.2 = Identical Variables
+-  Ex_6.3 = Write a cross-referencer
+-  Ex_6.5 = undef: remove name and definition from table
 
 ## Chapter 7:
-  Ex_7.1 = upper case to lower or lower case to upper
-  Ex_7.2 = print non-graphic characters in octal or hexadecimal
-  Ex_7.3 = minprintf to handle facilities of printf
-  Ex_7.4 = private version of scanf
-  Ex_7.5 = Postfix calculator using scanf
-  Ex_7.6 = Compare Two files
-  Ex_7.7 = Pattern matching program with files
-  Ex_7.8 = Print Pages to Files
-  Ex_7.9 = Analyze implementations of isupper
+-  Ex_7.1 = upper case to lower or lower case to upper
+-  Ex_7.2 = print non-graphic characters in octal or hexadecimal
+-  Ex_7.3 = minprintf to handle facilities of printf
+-  Ex_7.4 = private version of scanf
+-  Ex_7.5 = Postfix calculator using scanf
+-  Ex_7.6 = Compare Two files
+-  Ex_7.7 = Pattern matching program with files
+-  Ex_7.8 = Print Pages to Files
+-  Ex_7.9 = Analyze implementations of isupper
 
 ## Chapter 8:
-  Ex_8.1 = Read and Write
-  Ex_8.2 = Buffered and Unbuffered getchar
+-  Ex_8.1 = Read and Write
+-  Ex_8.2 = Buffered and Unbuffered getchar
 
