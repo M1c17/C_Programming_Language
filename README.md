@@ -1,15 +1,16 @@
 # C_Programming_Language
 
-Exercises and Solutions for The C programming Language, 2nd Edition
+## Exercises and Solutions for The C programming Language, 2nd Edition
 [The C Programming Language, Second Edition
 by Brian W. Kernighan and Dennis M. Ritchie.
 Prentice Hall, Inc., 1988.](https://github.com/M1c17/C_Programming_Language/blob/main/The%20C%20Programming%20Language%20-%202nd%20Edition%20-%20Ritchie%20Kernighan.pdf)
 
-How to run C programs?
+How to run C programs?:
+
 Check this links:
-1.[Compiling C files with gcc, step by step](https://medium.com/@laura.derohan/compiling-c-files-with-gcc-step-by-step-8e78318052)
-2.[How to Run C-Program in Command Prompt](https://randerson112358.medium.com/how-to-run-c-program-in-command-prompt-e435186cd162)
-3.[Compiling C code from the terminal](https://www.youtube.com/watch?v=FGSlg8L5kf0)
+1.  [Compiling C files with gcc, step by step](https://medium.com/@laura.derohan/compiling-c-files-with-gcc-step-by-step-8e78318052)
+2.  [How to Run C-Program in Command Prompt](https://randerson112358.medium.com/how-to-run-c-program-in-command-prompt-e435186cd162)
+3.  [Compiling C code from the terminal](https://www.youtube.com/watch?v=FGSlg8L5kf0)
 
 ## Chapter 1:
 -  Ex_1.2 = How to use printf()
