@@ -57,20 +57,20 @@ Check this links:
 -  Ex_3.6 = Write a function of itoa that accept three arguments instead of two
 
 ## Chapter 4:
-  Ex_4.1 = Write the function strindex that return the pos in the str s where str t begins
-  Ex_4.2 = Extend atof to handle scientific notation of the form 123.456e-6
-  Ex_4.3 = Reverse Polish Notation Calculator
-  Ex_4.4 = Add commands elements of the stack for reverse polish notation calculator
-  Ex_4.5 = Add access to library functions like sin, exp, and pow <math.h>
-  Ex_4.6 = Add commands for handling variables. (26 single letter names)
-  Ex_4.7 = Write a routine ungets(s) that will push back an entire string onto the input
-  Ex_4.8 = Suppose that there will never be more than one character of pushback.Modify getch and ungetch accordingly
-  Ex_4.9 = Our getch and ungetch do not handle a pushed back EOF correctly
-  Ex_4.10 = Revise the Calculator program to use the getline instead of getch and ungetch
-  Ex_4.11 = modify getop so that it does not need to use ungetch: Hint: static int lastc
-  Ex_4.12 = Write itoa in recursive version
-  Ex_4.13 = Write a recursive version of the function reverse(s)
-  Ex_4.14 = Define a macro swap that interchanges two arguments of type t
+-  Ex_4.1 = Write the function strindex that return the pos in the str s where str t begins
+-  Ex_4.2 = Extend atof to handle scientific notation of the form 123.456e-6
+-  Ex_4.3 = Reverse Polish Notation Calculator
+-  Ex_4.4 = Add commands elements of the stack for reverse polish notation calculator
+-  Ex_4.5 = Add access to library functions like sin, exp, and pow <math.h>
+-  Ex_4.6 = Add commands for handling variables. (26 single letter names)
+-  Ex_4.7 = Write a routine ungets(s) that will push back an entire string onto the input
+-  Ex_4.8 = Suppose that there will never be more than one character of pushback.Modify getch and ungetch accordingly
+-  Ex_4.9 = Our getch and ungetch do not handle a pushed back EOF correctly
+-  Ex_4.10 = Revise the Calculator program to use the getline instead of getch and ungetch
+-  Ex_4.11 = modify getop so that it does not need to use ungetch: Hint: static int lastc
+-  Ex_4.12 = Write itoa in recursive version
+-  Ex_4.13 = Write a recursive version of the function reverse(s)
+-  Ex_4.14 = Define a macro swap that interchanges two arguments of type t
 
 ## Chapter 5:
 -  Ex_5.1 = getint : get next integer from input into *pn 
